@@ -13,7 +13,7 @@ import './App.scss';
 //   return null;
 // });
 
-export const App = () => (
+export const App = () => (  
   <div className="section">
     <div className="container">
       <h1 className="title">Product Categories</h1>
